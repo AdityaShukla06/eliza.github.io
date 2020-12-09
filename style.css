@@ -1,0 +1,30 @@
+
+.invite{
+    text-align: center;
+}
+.invite button{
+    font-size: xx-large;
+}
+.discord{
+    margin-top: 1cm;
+    text-align: center;
+}
+.discord button{
+    margin-top: 1cm;
+    font-size: xx-large;
+}
+.main{
+    margin-top: 1.5cm;
+    letter-spacing: normal;
+    font-size: xx-large;
+    font-family: 'Acme', sans-serif;
+}
+.heading{
+    margin-top: 5cm;
+    letter-spacing: normal;
+    font-size: 75px;
+    font-family: 'Permanent Marker', cursive;
+
+}.all{
+    margin-top: 5cm;
+}
